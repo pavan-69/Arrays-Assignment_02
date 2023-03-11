@@ -1,0 +1,26 @@
+1) what is the default value of Array for different datatypes?
+  for int ---> 0
+  for float/double ---> 0.0
+  for String ---> null
+
+2) Can you pass the negative number in Array size?
+  Array dimensions cannot have a negative size.
+ 
+3) where does Array stored in JVM memory?
+ In Heap memory stored Array elements
+ In stack memory stored Array reference 
+
+4) what are the disadvantages of Array?
+  we can't increase size of array
+  we stored only homogenous elements
+
+5) what is an anonomous Array in java?Give an examples?
+An array in Java without any name is known as an anonymous array.
+
+6) what are the different ways to traverse an Array in java?
+ Using Enhanced for loop / index for loop
+  
+
+7) what is the difference between length and length() method Give an examples?
+  length ---> used for finding length of array
+  length() ---> used in strings concept
